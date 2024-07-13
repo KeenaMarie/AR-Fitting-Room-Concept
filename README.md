@@ -8,6 +8,12 @@ This project introduces an innovative Augmented Reality (AR) fitting room soluti
 - Cloud Computing
 - Mobile and Web Applications
 
+In addition to these technologies, our AR Fitting Room concept incorporates a wide range of components and considerations. The following high-level architecture diagram illustrates this comprehensive approach:
+
+![AR Fitting Room High-Level Architecture](images/ar-fitting-room-high-level.png)
+
+This diagram outlines the major aspects of the system, including hardware requirements, software components, user applications, and retail integration.
+
 ## Project Goals
 1. Enhance customer shopping experience through interactive AR technology
 2. Reduce product returns by providing accurate virtual try-ons
