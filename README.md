@@ -22,7 +22,7 @@ This diagram outlines the major aspects of the system, including hardware requir
 
 To achieve these goals, we've designed a detailed technical architecture that outlines the core components and their interactions:
 
-![AR Fitting Room System Architecture](AR%20Fitting%20Room%20System%20Architecture.drawio.png)
+![AR Fitting Room System Architecture](images/AR%20Fitting%20Room%20System%20Architecture.png)
 
 This diagram shows the main system components:
 - AR Fitting Room Service: The central component coordinating all functionalities
