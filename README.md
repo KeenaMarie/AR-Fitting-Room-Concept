@@ -41,3 +41,12 @@ This project follows a 27-month implementation plan, including:
 - Expansion to include accessories and cosmetics in the AR fitting room
 - Development of a mobile app for at-home virtual try-ons
 - Implementation of voice-activated commands for hands-free interaction
+
+## Contributing
+This project is currently a concept and is not open to contributions. However, feedback and suggestions are welcome. Please open an issue to discuss any ideas or potential improvements.
+
+- ## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+For any queries regarding this project, please open an issue in this repository.
