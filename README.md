@@ -20,6 +20,18 @@ This diagram outlines the major aspects of the system, including hardware requir
 3. Increase sales conversion rates in both online and in-store environments
 4. Provide valuable data insights for retailers to optimize inventory and marketing strategies
 
+To achieve these goals, we've designed a detailed technical architecture that outlines the core components and their interactions:
+
+![AR Fitting Room Detailed Technical Architecture](images/ar-fitting-room-detailed.png)
+
+This diagram shows the main system components:
+- AR Fitting Room Service: The central component coordinating all functionalities
+- Mobile App: User interface for interacting with the AR fitting room
+- AR Models: Including garment templates for virtual try-ons
+- Product Database: Manages inventory and product information
+- Body Tracking: Handles skeleton detection and clothing size estimation
+- AR Visualization: Manages the virtual try-on experience and 3D clothing rendering
+
 ## Implementation Strategy
 This project follows a 27-month implementation plan, including:
 1. Infrastructure assessment and preparation
