@@ -10,7 +10,7 @@ This project introduces an innovative Augmented Reality (AR) fitting room soluti
 
 In addition to these technologies, our AR Fitting Room concept incorporates a wide range of components and considerations. The following high-level architecture diagram illustrates this comprehensive approach:
 
-![AR Fitting Room High-Level Architecture](images/ar-fitting-room-high-level.png)
+![AR Fitting Room High-Level Architecture]([images/AR%20Fitting%20Room%20System%20Architecture.drawio.png#:~:text=Raw%20file%20content-,Download,-%E2%8C%98))
 
 This diagram outlines the major aspects of the system, including hardware requirements, software components, user applications, and retail integration.
 
