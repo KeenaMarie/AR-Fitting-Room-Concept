@@ -1,0 +1,8 @@
+Mobile App Screens Mockup
+
+Key screens for the AR Fitting Room mobile application:
+- Home screen with featured items
+- AR camera view for at-home try-ons
+- User profile and size information
+- Past try-ons and favorites list
+- Social sharing interface
