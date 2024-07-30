@@ -1,0 +1,8 @@
+AR Fitting Room Interface Mockup
+
+This file represents a mockup of the user interface for the AR fitting room.
+Key elements include:
+- Virtual mirror display
+- Clothing selection menu
+- Size and fit adjustment controls
+- Social sharing buttons
