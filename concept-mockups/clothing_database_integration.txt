@@ -1,0 +1,7 @@
+Clothing Database Integration Mockup
+
+This mockup showcases how the clothing inventory integrates with the AR system:
+- Categorized clothing items
+- Search and filter options
+- Detailed item view with AR try-on button
+- Inventory status indicators
