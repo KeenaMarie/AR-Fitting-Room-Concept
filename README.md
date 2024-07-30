@@ -2,6 +2,21 @@
 
 The AR Fitting Room Concept is an innovative solution designed to revolutionize the fashion retail experience by leveraging cutting-edge Augmented Reality (AR) technology. This concept aims to seamlessly blend the convenience of online shopping with the tactile experience of in-store fitting rooms.
 
+## Table of Contents
+1. [Project Overview](#project-overview)
+2. [Project Goals](#project-goals)
+3. [Concept Highlights](#concept-highlights)
+4. [Technologies Involved](#technologies-involved)
+5. [System Architecture](#system-architecture)
+6. [Implementation Strategy](#implementation-strategy)
+7. [SWOT Analysis](#swot-analysis)
+8. [Potential Impact](#potential-impact)
+9. [Future Development Ideas](#future-development-ideas)
+10. [Challenges and Solutions](#challenges-and-solutions)
+11. [License](#license)
+12. [Contact](#contact)
+
+
 ## Project Overview
 
 Key features of this concept include:
